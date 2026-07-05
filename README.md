@@ -8,7 +8,7 @@ Contato: joao.paulo@ueg.br
 > Um aplicativo web estático, gratuito e de uso educacional.
 > Aplicação estática — sem cadastro, sem login e sem coleta de dados pessoais. O progresso é salvo apenas no navegador de cada usuário.
 
-🔗 Acesse o curso / Accede al curso / Open the course:** https://jpsilveira1983.github.io/-Vamos-ahora-/
+🔗 Acesse o curso / Accede al curso / Open the course: https://jpsilveira1983.github.io/-Vamos-ahora-/
 
 ---
 
