@@ -4,7 +4,7 @@
 **Curso introdutório de espanhol para estudantes de História**
 Universidade Estadual de Goiás (UEG) — Unidade Iporá
 
-Responsável: Prof. Dr. João Paulo de Paula Silveira
+Responsável: Prof. Dr. João Paulo de Paula Silveira.
 Contato: joao.paulo@ueg.br
 
 > Um aplicativo web estático, gratuito e de uso educacional.
