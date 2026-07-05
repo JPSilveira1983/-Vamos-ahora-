@@ -3,11 +3,12 @@
 
 **Curso introdutório de espanhol para estudantes de História**
 Universidade Estadual de Goiás (UEG) — Unidade Iporá
+Contato: joao.paulo@ueg.br
 
 > Um aplicativo web estático, gratuito e de uso educacional.
 > Aplicação estática — sem cadastro, sem login e sem coleta de dados pessoais. O progresso é salvo apenas no navegador de cada usuário.
 
-🔗 **Acesse o curso:** _adicione aqui o link do GitHub Pages depois de publicar (ex.: https://jpsilveira1983.github.io/vamos-ahora/)_
+🔗 Acesse o curso / Accede al curso / Open the course:** https://jpsilveira1983.github.io/-Vamos-ahora-/
 
 ---
 
